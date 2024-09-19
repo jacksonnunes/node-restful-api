@@ -22,7 +22,7 @@ This project is a RESTful API built with Node.js and Express that implements aut
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/jacksonnunes/node-restful-api.git
     ```
 
 2. Navigate to the project directory:
