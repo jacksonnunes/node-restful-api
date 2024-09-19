@@ -33,12 +33,12 @@ This project is a RESTful API built with Node.js and Express that implements aut
 
 3. Install dependencies:
 
-If you're using npm:
+    - If you're using npm:
     ```bash
     npm install
     ```
 
-If you're using yarn:
+    - If you're using yarn:
     ```bash
     yarn
     ```
@@ -62,12 +62,12 @@ JWT_SECRET=your_jwt_secret
 ### Running Server
 
 - Start the server application by running:
-If you're using npm:
+    - If you're using npm:
     ```bash
     npm start
     ```
 
-If you're using yarn:
+    - If you're using yarn:
     ```bash
     yarn start
     ```
@@ -75,12 +75,12 @@ If you're using yarn:
 ### Running Tests
 
 - To run the unit tests, use the following command:
-If you're using npm:
+    - If you're using npm:
     ```bash
     npm test
     ```
 
-If you're using yarn:
+    - If you're using yarn:
     ```bash
     yarn test
     ```
